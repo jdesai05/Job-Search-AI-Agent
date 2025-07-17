@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+pdfplumber
+docx2txt
+scikit-learn
+beautifulsoup4
+requests
+lxml
+fastapi[all]
